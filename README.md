@@ -27,7 +27,7 @@
 
 ---
 
-## About Me
+## 🟡 About Me
 
 - **추천 시스템과 검색 품질**에 관심을 갖고, Kaggle H&M 패션 데이터를 활용해 실습하고 있습니다.
 - EDA → 전처리 → 시계열 분할 → MF → ML 재랭킹 → DeepFM까지  
@@ -36,7 +36,7 @@
 
 ---
 
-## 🟨 What I’m Practicing (JD와 연결되는 부분)
+## 🟡 What I’m Practicing
 
 ### 검색/추천 품질 관점의 데이터 보기
 
@@ -66,7 +66,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🟡 Tech Stack
 
 ### Languages  
 `Python` `SQL`
@@ -87,9 +87,9 @@
 
 ---
 
-## 📂 Featured Projects
+## 🟡 Featured Projects
 
-### 🟡 추천시스템 구현 (Recommender Systems Study)
+### 추천시스템 구현 (Recommender Systems Study)
 
 > Kaggle **H&M Personalized Fashion Recommendations** 데이터를 활용해,  
 > 패션 도메인 추천 시스템의 전체 흐름을 따라가며 공부한 프로젝트입니다.
@@ -99,11 +99,11 @@
 - MF(ALS) 베이스라인 → LightGBM 재랭킹 → DeepFM까지 단계적으로 구현  
 - 패션 상품 메타데이터(색상, 패턴, 카테고리)를 feature로 활용하는 실습 진행  
 
-🔗 **Repo:** https://github.com/jenieeeee/추천시스템-구현-레포-이름을_여기에_맞게_수정해주세요
+🔗 **Repo:** https://github.com/jenieeeee/recommender-systems
 
 ---
 
-### 🟡 KAIST–POSTECH–UNIST 데이터사이언스 경진대회
+### KAIST–POSTECH–UNIST 데이터사이언스 경진대회
 
 > 제조/시뮬레이션 데이터를 기반으로  
 > 모델 설계, 피처 엔지니어링, 검증 흐름을 직접 구성한 경험입니다.
@@ -116,7 +116,7 @@
 
 ---
 
-## 📈 What I’m Learning Now
+## 🟡 What I’m Learning Now
 
 - 패션 버티컬 커머스에서 **어떤 검색어/상품 조합이 좋은 경험을 만드는지**  
 - 후보 생성 및 재랭킹 구조에서 **각 단계가 품질에 미치는 영향**  
@@ -125,7 +125,7 @@
 
 ---
 
-## 🎯 My Goal
+## 🟡 My Goal
 
 - 유저가 “지금 나한테 딱 맞는 스타일”을 더 빨리 찾을 수 있도록,  
   **데이터를 통해 검색·추천 품질을 개선하는 사람**이 되는 것
@@ -136,12 +136,12 @@
 
 ---
 
-## 📬 Contact
+## 🟡 Contact
 
 - **GitHub:** https://github.com/jenieeeee  
 - **Email:** cje33333@naver.com
 
 ---
 
-<h3 align="center">🟡 꾸준히 배우고, 정리하고, 더 나은 검색·추천 경험을 만들기 위해 성장 중입니다 🟡</h3>
+<h3 align="center">🟨 꾸준히 배우고, 정리하고, 더 나은 검색·추천 경험을 만들기 위해 성장 중입니다 🟨</h3>
 
